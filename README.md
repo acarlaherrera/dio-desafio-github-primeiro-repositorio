@@ -1,2 +1,3 @@
 # dio-desafio-github-primeiro-repositorio
-Desafio projeto sobre GIT/GITHUB
+Olá, meu nome é Carla
+Este repositório foi criado para o Desafio projeto sobre GIT/GITHUB
