@@ -1,0 +1,8 @@
+Comando principais do GitHub
+
+git init
+git add *
+git commit -m "nome do commit"
+git branch -M main
+git remote add origin "URL" push -u origin main
+git push -u origin main
